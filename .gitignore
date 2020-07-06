@@ -1,1 +1,4 @@
-./data
+data/
+.python-version
+.gitignore
+.ipynb_checkpoints
